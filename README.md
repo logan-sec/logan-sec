@@ -7,7 +7,6 @@
 ---
 
 ### 🔥 What I'm Working On
-### 🔥 What I'm Working On
 - Developing **automation scripts and tooling** to streamline penetration testing & bug bounty workflows  
 - Gaining hands-on experience across the **OWASP Top 10** (XSS, Access Control, SQLi, Business Logic, etc.)  
 - Building a strong foundation in **offensive security** to prepare for real-world pentesting and bug bounty engagements
