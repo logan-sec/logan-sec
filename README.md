@@ -20,10 +20,10 @@
 
 ---
 
-### 📚 Currently Learning
-- Bug bounty methodology (**HackerOne**, PortSwigger Labs)  
-- Broken Access Control & Authentication flaws  
-- Advanced recon & automation scripting  
+📚 Currently Learning  
+- Advanced recon & automation scripting (building custom tools for bug bounty workflows)  
+- Server-Side Request Forgery (SSRF) & Host Header attacks  
+- Business Logic flaws & complex authorization bypasses  
 
 ---
 
