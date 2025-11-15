@@ -9,7 +9,7 @@ Focused on Web App Security, Bug Bounty Hunting, and Developing Lightweight Secu
 ## 🔥 What I'm Working On
 - Building **Mint**, a Python-based payload obfuscation tool for WAF bypass testing and recon workflows  
 - Automating security tasks using Python (HTTP fuzzing, timed brute forcing, payload generation, deduping, recon pipelines)  
-- Practicing manual web exploitation across the **OWASP Top 10** (IDOR, SQLi, XSS, CSRF, SSRF, business logic flaws)  
+- Practicing manual web exploitation across the **OWASP Top 10** (IDOR, SQLi, XSS, CSRF, SSRF, business logic flaws, etc...)  
 - Gaining real-world experience through **bug bounty programs** and reporting valid vulnerabilities  
 - Strengthening fundamentals for future penetration testing and offensive security work
 
