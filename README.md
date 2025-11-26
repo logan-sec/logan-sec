@@ -19,7 +19,8 @@ Focused on Web App Security, Bug Bounty Hunting, and Developing Lightweight Secu
 
 ### **Languages**
 - Python  
-- Bash  
+- Bash
+- PowerShell 
 
 ### **Tools**
 - Kali Linux  
