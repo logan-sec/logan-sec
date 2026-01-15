@@ -1,62 +1,49 @@
 # 👋 Hi, I'm Logan
 
-**Aspiring Penetration Tester | Web Security Learner | Python Tools Builder**  
-Focused on Web App Security, Bug Bounty Hunting, and Developing Lightweight Security Automation  
-🎯 Goal: Land a cybersecurity role by **August 2026**
+**Junior Penetration Tester | Web Application Security | Offensive Python Tooling**
+
+I focus on manual web application security testing, bug bounty research, and building lightweight Python tools to support reconnaissance, payload testing, and vulnerability discovery. I have been practicing daily since July 2025 across real applications, structured labs, and CTFs.
 
 ---
 
-## 🔥 What I'm Working On
-- Building **Mint**, a Python-based payload obfuscation tool for WAF bypass testing and recon workflows  
-- Automating security tasks using Python (HTTP fuzzing, timed brute forcing, payload generation, deduping, recon pipelines)  
-- Practicing manual web exploitation across the **OWASP Top 10** (IDOR, SQLi, XSS, CSRF, SSRF, business logic flaws, etc...)  
-- Gaining real-world experience through **bug bounty programs** and reporting valid vulnerabilities  
-- Strengthening fundamentals for future penetration testing and offensive security work
+## 🔥 What I Work On
+- Building **Mint**, a Python-based payload obfuscation and mutation tool used for filter and WAF bypass testing
+- Automating security tasks with Python (HTTP fuzzing, timing-based brute forcing, payload generation, recon pipelines)
+- Manual testing of web applications across authentication, authorization, and business logic flows
+- Discovering and validating vulnerabilities such as SQLi, XSS, IDOR/Broken Access Control, CSRF, SSRF, and logic flaws
+- Reporting findings clearly with reproducible proof-of-concept steps
 
 ---
 
 ## 🧰 Tech Stack
 
-### **Languages**
+### Languages
 - Python  
-- Bash
-- PowerShell 
+- Bash  
+- PowerShell  
 
-### **Tools**
+### Tools
 - Kali Linux  
 - Burp Suite  
 - Nmap  
 - Wireshark  
 
-### **Focus Areas**
-- Web application hacking  
-- Recon & enumeration  
-- Automation scripting  
+### Focus Areas
+- Web application security testing  
+- Reconnaissance & attack surface mapping  
+- Offensive automation  
 - Payload engineering  
 
 ---
 
-## 📚 Currently Learning
-- Deepening my overall **bug bounty methodology** — from recon, fingerprinting, and mapping attack surface to validating and reporting findings  
-- Building stronger **manual testing skills** across real applications instead of focusing on individual vulnerabilities  
-- Improving **automation with Python** to streamline recon, payload testing, and workflow efficiency  
-- Studying advanced **app architecture, authentication flows, and business logic** to identify high-impact issues  
-- Continuing structured practice through PortSwigger WSA, Hacker101 CTFs, and hands-on bug bounty programs
-
----
-
-## 🏆 Certifications / Training
-- TryHackMe: **Pre-Security**, **Cybersecurity 101**, **Jr Penetration Tester**  
-- PortSwigger: Dozens of solved labs (SQLi, XSS, CSRF, IDOR, SSRF, File Upload, Logic Flaws)  
-- Hacker101: Ongoing CTF progress  
-
----
-
-## 🚀 Fun Fact
-I’ve been practicing ethical hacking **daily since July 2025**, building tools and documenting my journey toward my first penetration testing job.
+## 📚 Training & Practice
+- TryHackMe: Pre-Security, Cyber Security 101, Jr Penetration Tester  
+- PortSwigger Web Security Academy: Extensive hands-on labs across major vulnerability classes  
+- Hacker101: Exploitation-focused CTF challenges  
+- Bug bounty programs: Real application testing and vulnerability reporting
 
 ---
 
 ## ⚠️ Disclaimer
-All repositories and scripts are for **educational purposes only**.  
-Never use against systems without explicit permission.
+All repositories and scripts are for **educational and authorized security testing only**.  
+Do not use against systems without explicit permission.
