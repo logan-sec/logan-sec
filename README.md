@@ -1,49 +1,65 @@
 # 👋 Hi, I'm Logan
 
-**Junior Penetration Tester | Web Application Security | Offensive Python Tooling**
+I'm the creator of **LoganSec**, where I document my journey in bug bounty hunting, web application security, recon, and vulnerability research.
 
-I focus on manual web application security testing, bug bounty research, and building lightweight Python tools to support reconnaissance, payload testing, and vulnerability discovery. I have been practicing daily since July 2025 across real applications, structured labs, and CTFs.
+I focus on real-world web hacking, manual testing, and building lightweight tools that help me hunt more efficiently.
 
----
-
-## 🔥 What I Work On
-- Building **Mint**, a Python-based payload obfuscation and mutation tool used for filter and WAF bypass testing
-- Automating security tasks with Python (HTTP fuzzing, timing-based brute forcing, payload generation, recon pipelines)
-- Manual testing of web applications across authentication, authorization, and business logic flows
-- Discovering and validating vulnerabilities such as SQLi, XSS, IDOR/Broken Access Control, CSRF, SSRF, and logic flaws
-- Reporting findings clearly with reproducible proof-of-concept steps
+I'm not here to present myself as a guru. I'm building in public, sharing what I learn, and improving one hunting session at a time.
 
 ---
 
-## 🧰 Tech Stack
+## What I'm Focused On
 
-### Languages
-- Python  
-- Bash  
-- PowerShell  
-
-### Tools
-- Kali Linux  
-- Burp Suite  
-- Nmap  
-- Wireshark  
-
-### Focus Areas
-- Web application security testing  
-- Reconnaissance & attack surface mapping  
-- Offensive automation  
-- Payload engineering  
+- Bug bounty hunting on real programs
+- Manual recon and attack surface mapping
+- IDOR / Broken Access Control testing
+- OAuth and authentication flow testing
+- Business logic bugs
+- JavaScript recon and endpoint discovery
+- Python tooling for bug bounty workflows
+- Writing field notes from real hunting sessions
 
 ---
 
-## 📚 Training & Practice
-- TryHackMe: Pre-Security, Cyber Security 101, Jr Penetration Tester  
-- PortSwigger Web Security Academy: Extensive hands-on labs across major vulnerability classes  
-- Hacker101: Exploitation-focused CTF challenges  
-- Bug bounty programs: Real application testing and vulnerability reporting
+## Current Projects
+
+- **Bug bounty recon workflows**  
+  Scripts and notes for organizing targets, extracting useful data, and improving manual recon.
+
+- **JavaScript recon automation**  
+  HAR-based JS extraction, beautification, endpoint discovery, secret scanning, and gf pattern triage.
+
+- **Web security notes**  
+  Practical notes from labs, writeups, and real application testing.
 
 ---
 
-## ⚠️ Disclaimer
-All repositories and scripts are for **educational and authorized security testing only**.  
-Do not use against systems without explicit permission.
+## Tools I Use
+
+- Burp Suite
+- Kali Linux
+- Python
+- Bash
+- Chrome DevTools
+- LinkFinder
+- SecretFinder
+- gf
+- httpx
+- katana
+- gau / waybackurls
+
+---
+
+## LoganSec
+
+I also create bug bounty content on YouTube under **LoganSec**, focused on real hunting sessions, recon breakdowns, field notes, and lessons from the process.
+
+If you're interested in bug bounty, web hacking, or learning in public, that's what this GitHub is built around.
+
+---
+
+## Disclaimer
+
+Everything here is for educational purposes and authorized security testing only.
+
+Do not use these tools, notes, or techniques against systems you do not own or have explicit permission to test.
