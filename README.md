@@ -8,6 +8,12 @@ I'm not here to present myself as a guru. I'm building in public, sharing what I
 
 ---
 
+## LoganSec Website
+
+Website: https://logansec.com
+
+---
+
 ## What I'm Focused On
 
 - Bug bounty hunting on real programs
